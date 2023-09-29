@@ -1,0 +1,14 @@
+.box {
+    background-color:aqua;
+
+
+    transform: translate(10px,20px);  /* for positioning */
+
+    transform: rotate(-45deg); /* for rotating text */
+
+    transform: scale(1,10);  /* incresing size */
+
+    transform: skew(20deg); /* for tilting the content */
+
+
+}

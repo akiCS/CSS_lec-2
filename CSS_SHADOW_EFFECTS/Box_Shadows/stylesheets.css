@@ -1,0 +1,14 @@
+.box {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    color: red;
+
+
+    box-shadow: -10px -10px 15px green, -15px -15px 15px blue; /* by using -ve values we can see effect on left and top */
+
+    box-shadow: 10px 10px 15px green, -15px -15px 15px blue;
+
+    /* box-shadow: 1px 1px black, -1px -1px black; */
+
+}

@@ -1,0 +1,13 @@
+.box {
+    border: 1px solid black;
+    width: 150px;
+    height: 200px;
+
+        background-image: radial-gradient(red,blue,green,pink); /* we can use multiple colors and degres */
+
+        background-image: radial-gradient(circle,red,blue,pink);
+
+        background-image: radial-gradient(yellow 5%, orange 10%, red 50%);
+
+
+}
